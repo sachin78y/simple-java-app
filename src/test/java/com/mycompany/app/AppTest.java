@@ -11,7 +11,7 @@ public class AppTest {
     @Test
     public void testMessage() {
         App app = new App();
-        assertEquals("Good Morning", "Good Morning");
+        assertEquals("Hello From Hitachi System India", "Hello From Hitachi System India");
     }
 }
 
