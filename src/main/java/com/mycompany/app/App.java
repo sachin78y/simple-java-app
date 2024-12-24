@@ -6,7 +6,7 @@ import static spark.Spark.*;
  * Main application class.
  */
 public class App {
-    private static final String MESSAGE = "Hey There How Are You";
+    private static final String MESSAGE = "Welcome to Hitachi";
 
     public static void main(String[] args) {
         // Set the server port
@@ -38,7 +38,7 @@ public class App {
                     </style>
                 </head>
                 <body>
-                    <h1>Hey There How Are You</h1>
+                    <h1>Welcome to Hitachi</h1>
                 </body>
                 </html>
                 """;
