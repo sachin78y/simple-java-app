@@ -11,7 +11,7 @@ public class AppTest {
     @Test
     public void testMessage() {
         App app = new App();
-        assertEquals("Good Morning Have A good Day", "Good Morning Have A good Day");
+        assertEquals("Hey There How Are You", "Hey There How Are You");
     }
 }
 
